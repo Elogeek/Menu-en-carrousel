@@ -20,5 +20,5 @@ button2.addEventListener('click', function (e) {
     image3.style.width = 50 + "px";
     image4.style.width = 50 + "px";
     image5.style.width = 50 + "px";
+});
 
-})
