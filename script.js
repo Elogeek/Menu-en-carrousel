@@ -6,6 +6,7 @@ let image3 = document.getElementById("img3");
 let image4 = document.getElementById("img4");
 let image5 = document.getElementById("img5");
 
+
 button1.addEventListener('click', function (e) {
     image1.style.width = 400 + "px";
     image2.style.width = 400 + "px";
